@@ -1,0 +1,6 @@
+{
+  "name": "Study Planner",
+  "description": "A modern, responsive study planner for students featuring a Pomodoro timer, subject-wise hour tracking, prioritized task planning, and detailed progress statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
